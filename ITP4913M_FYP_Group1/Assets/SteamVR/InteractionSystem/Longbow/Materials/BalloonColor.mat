@@ -106,7 +106,11 @@ Material:
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &2522817959402645459
+=======
+--- !u!114 &5564194430721959423
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
 --- !u!114 &5564194430721959423
 >>>>>>> parent of 8075300d (Revert "Corals_Added")

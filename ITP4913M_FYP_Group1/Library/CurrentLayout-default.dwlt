@@ -41,9 +41,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 469
     width: 926
     height: 478
+=======
+    y: 283
+    width: 926
+    height: 664
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     y: 283
     width: 926
@@ -82,7 +88,11 @@ MonoBehaviour:
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 125
+=======
+  controlID: 77
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
   controlID: 77
 >>>>>>> parent of 8075300d (Revert "Corals_Added")
@@ -158,7 +168,11 @@ MonoBehaviour:
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 120
+=======
+  controlID: 143
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
   controlID: 143
 >>>>>>> parent of 8075300d (Revert "Corals_Added")
@@ -202,7 +216,11 @@ MonoBehaviour:
     y: 0
     width: 926
 <<<<<<< HEAD
+<<<<<<< HEAD
     height: 469
+=======
+    height: 283
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     height: 283
 >>>>>>> parent of 8075300d (Revert "Corals_Added")
@@ -234,7 +252,11 @@ MonoBehaviour:
     x: 926
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 454
+=======
+    width: 451
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     width: 451
 >>>>>>> parent of 8075300d (Revert "Corals_Added")
@@ -243,7 +265,11 @@ MonoBehaviour:
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 77
+=======
+  controlID: 124
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
   controlID: 124
 >>>>>>> parent of 8075300d (Revert "Corals_Added")
@@ -263,9 +289,15 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1380
     y: 0
     width: 540
+=======
+    x: 1377
+    y: 0
+    width: 543
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     x: 1377
     y: 0
@@ -298,7 +330,11 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 454
+=======
+    width: 451
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     width: 451
 >>>>>>> parent of 8075300d (Revert "Corals_Added")
@@ -328,7 +364,11 @@ MonoBehaviour:
     x: 0
     y: 466
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 454
+=======
+    width: 451
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     width: 451
 >>>>>>> parent of 8075300d (Revert "Corals_Added")
@@ -478,9 +518,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1380
     y: 73
     width: 539
+=======
+    x: 1377
+    y: 73
+    width: 542
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     x: 1377
     y: 73
@@ -524,7 +570,11 @@ MonoBehaviour:
     x: 926
     y: 539
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 452
+=======
+    width: 449
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     width: 449
 >>>>>>> parent of 8075300d (Revert "Corals_Added")
@@ -544,7 +594,11 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets
+=======
+    - Assets/_Corals2/URP/Prefabs
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     - Assets/_Corals2/URP/Prefabs
 >>>>>>> parent of 8075300d (Revert "Corals_Added")
@@ -560,7 +614,11 @@ MonoBehaviour:
     m_SelectedIDs: f23b0000
     m_LastClickedID: 15346
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000d44600000c5d00000e5d0000105d0000125d0000145d0000165d0000185d00001a5d00001c5d00001e5d0000205d0000225d0000245d0000265d0000285d00002a5d00002c5d00002e5d0000305d0000325d0000345d0000365d0000385d00003a5d00003c5d00003e5d0000405d0000425d0000445d0000465d0000485d00004a5d00004c5d00004e5d0000505d0000
+=======
+    m_ExpandedIDs: 000000002c5300007e74000080740000827400008474000086740000887400008a7400008c7400008e74000090740000927400009474000096740000987400009a7400009c7400009e740000a0740000a2740000a4740000a6740000a8740000aa740000ac740000ae740000b0740000b2740000b4740000b6740000b8740000ba740000bc740000be740000c0740000c2740000
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     m_ExpandedIDs: 000000002c5300007e74000080740000827400008474000086740000887400008a7400008c7400008e74000090740000927400009474000096740000987400009a7400009c7400009e740000a0740000a2740000a4740000a6740000a8740000aa740000ac740000ae740000b0740000b2740000b4740000b6740000b8740000ba740000bc740000be740000c0740000c2740000
 >>>>>>> parent of 8075300d (Revert "Corals_Added")
@@ -592,7 +650,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: ffffffff00000000d44600000c5d00000e5d0000105d0000125d0000145d0000165d0000185d00001a5d00001c5d00001e5d0000205d0000225d0000245d0000265d0000285d00002a5d00002c5d00002e5d0000305d0000325d0000345d0000365d0000385d00003a5d00003c5d00003e5d0000405d0000425d0000445d0000465d0000485d00004a5d00004c5d00004e5d0000505d0000
+=======
+    m_ExpandedIDs: ffffffff000000002c5300007e74000080740000827400008474000086740000887400008a7400008c7400008e74000090740000927400009474000096740000987400009a7400009c7400009e740000a0740000a2740000a4740000a6740000a8740000aa740000ac740000ae740000b0740000b2740000b4740000b6740000b8740000ba740000bc740000be740000c0740000c2740000de740000f2740000de7500009a970000da970000f89700002a9b00002e9b0000
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     m_ExpandedIDs: ffffffff000000002c5300007e74000080740000827400008474000086740000887400008a7400008c7400008e74000090740000927400009474000096740000987400009a7400009c7400009e740000a0740000a2740000a4740000a6740000a8740000aa740000ac740000ae740000b0740000b2740000b4740000b6740000b8740000ba740000bc740000be740000c0740000c2740000de740000f2740000de7500009a970000da970000f89700002a9b00002e9b0000
 >>>>>>> parent of 8075300d (Revert "Corals_Added")
@@ -674,9 +736,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 542
     width: 925
     height: 457
+=======
+    y: 356
+    width: 925
+    height: 643
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     y: 356
     width: 925
@@ -692,7 +760,11 @@ MonoBehaviour:
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_TargetSize: {x: 925, y: 436}
+=======
+  m_TargetSize: {x: 925, y: 622}
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
   m_TargetSize: {x: 925, y: 622}
 >>>>>>> parent of 8075300d (Revert "Corals_Added")
@@ -713,8 +785,13 @@ MonoBehaviour:
     m_HBaseRangeMin: -462.5
     m_HBaseRangeMax: 462.5
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_VBaseRangeMin: -218
     m_VBaseRangeMax: 218
+=======
+    m_VBaseRangeMin: -311
+    m_VBaseRangeMax: 311
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     m_VBaseRangeMin: -311
     m_VBaseRangeMax: 311
@@ -738,9 +815,15 @@ MonoBehaviour:
       y: 21
       width: 925
 <<<<<<< HEAD
+<<<<<<< HEAD
       height: 436
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 462.5, y: 218}
+=======
+      height: 622
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 462.5, y: 311}
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
       height: 622
     m_Scale: {x: 1, y: 1}
@@ -754,12 +837,21 @@ MonoBehaviour:
       serializedVersion: 2
       x: -462.5
 <<<<<<< HEAD
+<<<<<<< HEAD
       y: -218
       width: 925
       height: 436
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 925, y: 457}
+=======
+      y: -311
+      width: 925
+      height: 622
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 925, y: 643}
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
       y: -311
       width: 925
@@ -798,7 +890,11 @@ MonoBehaviour:
     y: 73
     width: 925
 <<<<<<< HEAD
+<<<<<<< HEAD
     height: 448
+=======
+    height: 262
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     height: 262
 >>>>>>> parent of 8075300d (Revert "Corals_Added")
@@ -814,9 +910,15 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 127.2893, y: 43.612305, z: -226.6476}
     speed: 2
     m_Value: {x: 127.2893, y: 43.612305, z: -226.6476}
+=======
+    m_Target: {x: -76.47104, y: -44.56546, z: -114.932434}
+    speed: 2
+    m_Value: {x: -76.47104, y: -44.56546, z: -114.932434}
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     m_Target: {x: -76.47104, y: -44.56546, z: -114.932434}
     speed: 2
@@ -870,11 +972,19 @@ MonoBehaviour:
     m_Target: {x: 0.08714418, y: 0.16656207, z: -0.014766138, w: 0.98209584}
     speed: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Value: {x: 0.014373864, y: 0.9798167, z: -0.18437468, w: 0.07628545}
   m_Size:
     m_Target: 209.77379
     speed: 2
     m_Value: 209.77379
+=======
+    m_Value: {x: 0.08714125, y: 0.16655646, z: -0.014765642, w: 0.9820628}
+  m_Size:
+    m_Target: 477.13983
+    speed: 2
+    m_Value: 477.13983
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     m_Value: {x: 0.08714125, y: 0.16655646, z: -0.014765642, w: 0.9820628}
   m_Size:
@@ -930,7 +1040,11 @@ MonoBehaviour:
     x: 926
     y: 73
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 452
+=======
+    width: 449
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
     width: 449
 >>>>>>> parent of 8075300d (Revert "Corals_Added")
@@ -940,9 +1054,15 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: 6afbffff
+=======
+      m_SelectedIDs: 9045ffff
+      m_LastClickedID: -47728
+      m_ExpandedIDs: a455ffffc657ffff7e850000
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
       m_SelectedIDs: 9045ffff
       m_LastClickedID: -47728

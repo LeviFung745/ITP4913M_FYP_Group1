@@ -120,7 +120,11 @@ Material:
     - g_vWorldAlignedTexturePosition: {r: 0, g: 0, b: 0, a: 0}
     - g_vWorldAlignedTextureSize: {r: 1, g: 1, b: 1, a: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &7331169972082676410
+=======
+--- !u!114 &9102098936042101502
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 =======
 --- !u!114 &9102098936042101502
 >>>>>>> parent of 8075300d (Revert "Corals_Added")
