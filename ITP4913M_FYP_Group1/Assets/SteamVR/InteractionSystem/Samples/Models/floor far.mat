@@ -1,6 +1,10 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< HEAD
 --- !u!114 &-2912078394156568238
+=======
+--- !u!114 &-3471804450662401121
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

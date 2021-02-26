@@ -95,7 +95,11 @@ Material:
     - _Color: {r: 0.3602941, g: 0.8411764, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0, g: 0.71034503, b: 1, a: 1}
+<<<<<<< HEAD
 --- !u!114 &5447532144551844582
+=======
+--- !u!114 &4163964904156449400
+>>>>>>> parent of 8075300d (Revert "Corals_Added")
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
